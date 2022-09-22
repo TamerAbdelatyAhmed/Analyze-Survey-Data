@@ -1,0 +1,2 @@
+# Analyze-Survey-Data
+In this project, I analyze a real dataset about current Udacity students across a number of programs, so it isn't perfect. It is a little messy (some things are input incorrectly, others are missing). I need to decide how to analyze the data and then communicate your findings about it. You will use spreadsheets to make your analysis easier (please do not analyze by hand - it will take forever!).  Prepare with the descriptive statistics and spreadsheets lessons leading up to the project.
